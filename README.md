@@ -1,2 +1,0 @@
-# LazzyCoderFE
-README
